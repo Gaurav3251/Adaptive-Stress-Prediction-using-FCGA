@@ -115,7 +115,7 @@ The application will open automatically in your browser at `http://localhost:850
 
 ## 🧩 Workflow Diagram
 
-![Workflow Diagram](assets\Workflow diagram.png)
+![Workflow Diagram](assets/Workflow diagram.png)
 
 
 ### Fuzzy Logic
